@@ -1,3 +1,4 @@
+//Copyright - Darren Banfi 2024
 #include <exec/types.h>
 #include <intuition/intuition.h>
 #include <proto/intuition.h>
