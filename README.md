@@ -75,5 +75,5 @@ If you'd like to build this project yourself:
 1. Install the **AmigaOS cross-compilation toolchain** (e.g., `m68k-amigaos-gcc`).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/amiga-minesweeper.git
+   git clone https://github.com/boingball/amiga-minesweeper.git
    cd amiga-minesweeper
